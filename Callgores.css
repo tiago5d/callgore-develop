@@ -14,9 +14,43 @@ body{
 }
 .introtxt{
 	position:absolute;
-	top:25px; left:350px;
+	top:25px; left:400px;
 	font-family:Helvetica;
+	font-size:20px;
+	width:800px;
 }
+.juego1{
+	background-color:#F9E79F;
+	border-radius: 5px;
+	position: absolute;
+	top:580px; left:15px; margin-bottom:25px;
+	height:500px;  width: 1325px;
+}
+.imagenj1{
+	position: absolute;
+	top: 25px; left: 20px;
+}
+.juegotxt{
+	position:absolute;
+	top:25px; left:400px;
+	font-family:Helvetica;
+	font-size:20px;
+	width:800px;
+}
+.botond{
+	position:absolute;
+	left:140px;
+	text-decoration:none;
+	color:FDFEFE;
+	border-radius: 5px; 
+	background-color: #F4D03F;
+	padding:15px;
+	
+	
+}
+.botond:hover{
+	background-color: #F7DC6F;
+	
 	
 
 	
