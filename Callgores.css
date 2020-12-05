@@ -19,6 +19,33 @@ body{
 	font-size:20px;
 	width:800px;
 }
+.email{
+	position: absolute;
+	top:369px; left:250px;
+	color:FDFEFE;
+	border-radius: 5px; 
+	background-color: #F4D03F;
+	padding:15px;
+	text-decoration:none;
+}
+.email:hover{
+	background-color: #F7DC6F;
+}
+
+.ig{
+	position: absolute;
+	top:369px; left:0px;
+	text-decoration:none;
+	color:FDFEFE;
+	border-radius: 5px; 
+	background-color: #F4D03F;
+	padding:15px;
+}
+.ig:hover{
+	background-color: #F7DC6F;
+}
+
+	
 .juego1{
 	background-color:#F9E79F;
 	border-radius: 5px;
@@ -46,10 +73,10 @@ body{
 	background-color: #F4D03F;
 	padding:15px;
 	
-	
 }
 .botond:hover{
 	background-color: #F7DC6F;
+}
 	
 	
 
