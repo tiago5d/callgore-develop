@@ -21,7 +21,7 @@ body{
 }
 .email{
 	position: absolute;
-	top:369px; left:250px;
+	top:349px; left:250px;
 	color:FDFEFE;
 	border-radius: 5px; 
 	background-color: #F4D03F;
@@ -34,7 +34,7 @@ body{
 
 .ig{
 	position: absolute;
-	top:369px; left:0px;
+	top:349px; left:0px;
 	text-decoration:none;
 	color:FDFEFE;
 	border-radius: 5px; 
@@ -44,13 +44,41 @@ body{
 .ig:hover{
 	background-color: #F7DC6F;
 }
-
-	
-.juego1{
+.filtro1{
 	background-color:#F9E79F;
 	border-radius: 5px;
 	position: absolute;
 	top:580px; left:15px; margin-bottom:25px;
+	height:500px;  width: 1325px;
+}
+.video1{
+	position: absolute;
+	top: 25px; left: 20px;
+}
+.f1txt{
+	position:absolute;
+	top:25px; left:400px;
+	font-family:Helvetica;
+	font-size:20px;
+	width:800px;
+}
+.ig7zvalorant{
+	position:absolute;
+	left:140px;
+	text-decoration:none;
+	color:FDFEFE;
+	border-radius: 5px; 
+	background-color: #F4D03F;
+	padding:15px;
+}	
+.ig7zvalorant:hover{
+	background-color: #F7DC6F;
+}
+.juego1{
+	background-color:#F9E79F;
+	border-radius: 5px;
+	position: absolute;
+	top:1130px; left:15px; margin-bottom:25px;
 	height:500px;  width: 1325px;
 }
 .imagenj1{
@@ -71,8 +99,7 @@ body{
 	color:FDFEFE;
 	border-radius: 5px; 
 	background-color: #F4D03F;
-	padding:15px;
-	
+	padding:15px;	
 }
 .botond:hover{
 	background-color: #F7DC6F;
