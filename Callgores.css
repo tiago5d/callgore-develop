@@ -1,12 +1,34 @@
 body{
 	background-color:#F7DC6F;
 }
+html{
+scroll-behavior: smooth;
+}
+.callgore{
+	position: absolute;
+	left: 535px; top:-20px;
+	font-family:Bradley Hand ITC;
+	font-size:60px;
+}
+.logpng1{
+	position: absolute;
+	left: 900px;
+}
+.logpng2{
+	position: absolute;
+	left: 80px;
+}
+.Encabezado{
+	background-color:#F9E79F;
+	border-radius: 5px;
+	height:300px;  width: 1325px;
+}
 .introduccion{
 	background-color:#F9E79F;
 	border-radius: 5px;
 	position: absolute;
-	top:30px; left:15px;
-	height:500px;  width: 1325px;
+	top: 50px; left:10px;
+	height:400px;  width: 1325px;
 }
 .imagen{
 	position: absolute;
@@ -21,7 +43,7 @@ body{
 }
 .email{
 	position: absolute;
-	top:349px; left:250px;
+	top:300px; left:250px;
 	color:FDFEFE;
 	border-radius: 5px; 
 	background-color: #F4D03F;
@@ -34,7 +56,7 @@ body{
 
 .ig{
 	position: absolute;
-	top:349px; left:0px;
+	top:300px; left:0px;
 	text-decoration:none;
 	color:FDFEFE;
 	border-radius: 5px; 
@@ -48,8 +70,8 @@ body{
 	background-color:#F9E79F;
 	border-radius: 5px;
 	position: absolute;
-	top:580px; left:15px; margin-bottom:25px;
-	height:500px;  width: 1325px;
+	top: 50px; left:10px; margin-bottom:25px;
+	height:400px;  width: 1325px;
 }
 .video1{
 	position: absolute;
@@ -74,12 +96,42 @@ body{
 .ig7zvalorant:hover{
 	background-color: #F7DC6F;
 }
+.filtro2{
+	background-color:#F9E79F;
+	border-radius: 5px;
+	position: absolute;
+	top: 50px; left:10px; margin-bottom:25px;
+	height:400px;  width: 1325px;
+}
+.video2{
+	position: absolute;
+	top: 25px; left: 20px;
+}
+.f2txt{
+	position:absolute;
+	top:25px; left:400px;
+	font-family:Helvetica;
+	font-size:20px;
+	width:800px;
+}
+.igdocksudesports{
+	position:absolute;
+	left:140px;
+	text-decoration:none;
+	color:FDFEFE;
+	border-radius: 5px; 
+	background-color: #F4D03F;
+	padding:15px;
+}	
+.igdocksudesports:hover{
+	background-color: #F7DC6F;
+}
 .juego1{
 	background-color:#F9E79F;
 	border-radius: 5px;
 	position: absolute;
-	top:1130px; left:15px; margin-bottom:25px;
-	height:500px;  width: 1325px;
+	top:50px; left:10px; margin-bottom:25px;
+	height:400px;  width: 1325px;
 }
 .imagenj1{
 	position: absolute;
